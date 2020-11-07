@@ -1,0 +1,68 @@
+* {
+  color: white;
+}
+
+body {
+  background-color: darkgreen;
+  color: white;
+  text-align: center;
+}
+.タイトル {
+  font-size: 30px;
+  text-align: center;
+}
+.名前 {
+  margin-top: 0%;
+  margin-left: 80%;
+}
+h2 {
+  margin: 50px;
+  margin-left: 36%;
+  margin-right: 36%;
+  border-style: groove;
+  text-align: center;
+  border-width: 5px;
+  border-color: white;
+  padding: 0px;
+  padding-right: 0px;
+  padding-left: 0px;
+  background-color: black;
+}
+*/ p {
+  text-align: center;
+}
+h5 {
+  text-align: center;
+}
+.flexbox-container {
+  display: flex;
+  background-color: grey;
+}
+
+.flex-box item {
+  width: 200px;
+  margin: 10px;
+  border: 3px solid #333;
+  background-color: #dfdfdf;
+}
+/*navbar {
+  background-color: #333; /* Black background color */
+/*position: fixed; /* Make it stick/fixed */
+/*top: 0; /* Stay on top */
+/*width: 100%; */ /* Full width */
+/*transition: top 0.3s; /* Transition effect when sliding down (and up) */
+
+/* Style the navbar links 
+#navbar a {
+  float: left;
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 15px;
+  text-decoration: none;
+}
+
+/*#navbar a:hover {
+  background-color: #ddd;
+  color: black;
+}*/
